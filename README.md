@@ -1,0 +1,5 @@
+In this project I am going to build a basic recipe website. It will demonstrate that I understand the basics of writing in HTML such as,
+correctly using elements and their attributes if needed,
+writing in the proper format for readability,
+commiting to git with good commit messages,
+the importance of emphasizing and boldening,
