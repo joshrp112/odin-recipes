@@ -7,7 +7,7 @@ Using proper HTML elements and attributes
 
 Writing readable, well-indented code
 
-Emphasizing text with <em> and <strong>
+Emphasizing text with &lt;em&gt; and &lt;strong&gt;
 
 Making consistent and meaningful Git commits
 
