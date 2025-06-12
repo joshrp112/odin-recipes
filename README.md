@@ -18,7 +18,7 @@ Styling pages with CSS to improve layout and design
 Features
 Home page linking to different recipe pages
 
-Each recipe includes:
+<strong>Each recipe includes:</strong>
 
 Title
 
@@ -30,7 +30,7 @@ Ingredients list
 
 Step-by-step instructions
 
-CSS used to style:
+<strong>CSS used to style:</strong>
 
 Layout and spacing
 
