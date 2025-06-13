@@ -7,6 +7,7 @@
     outline: 2px solid red;
 }
 
+
 .recipes {
     font-family: Arial, Helvetica, sans-serif;
     display: block;
@@ -16,4 +17,58 @@
     font-weight: bold;
     color: rgb(240, 137, 154);
     background-color: blue;
+}
+
+
+.home {
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: x-large;
+    color: #00fa30;
+    background-color: #f00;
+    padding: 5px 15px;
+}
+
+
+.name {
+    text-align: center;
+    font-weight: 900;
+    
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: auto;
+}
+
+
+h2 {
+    text-align: center;
+    background-color: #00fa30;
+    color: #f00;
+}
+
+
+.desc {
+    outline: 2px solid red;
+    padding: 5px;
+}
+
+
+ol li {
+    text-align: left;
+    padding: 10px;
+    margin: 5px;
+    font-size: large;
+}
+
+
+ul li {
+    text-align: left;
+    padding: 5px;
+    margin: 5px;
+    font-size: large;
 }
