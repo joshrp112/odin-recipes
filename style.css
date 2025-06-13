@@ -55,6 +55,9 @@ h2 {
 .desc {
     outline: 2px solid red;
     padding: 5px;
+    font-size: 20px;
+    background-color: #00fa30;
+    color: #f00;
 }
 
 
@@ -63,6 +66,8 @@ ol li {
     padding: 10px;
     margin: 5px;
     font-size: large;
+    background-color: #00fa30;
+    color: #f00;
 }
 
 
@@ -71,4 +76,12 @@ ul li {
     padding: 5px;
     margin: 5px;
     font-size: large;
+    background-color: #00fa30;
+    color: #f00;
+}
+
+
+ol,
+ul {
+    margin-left: -25px;
 }
